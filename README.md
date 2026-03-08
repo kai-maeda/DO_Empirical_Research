@@ -50,6 +50,8 @@ Below are the final results for torch.manual_seed(42), np.random.seed(42). In or
 
 ---
 
+# Appendix
+
 ## Reducing Communication Cost via Different Communication Rounds ($\tau$)
 
 ![Alt text](results/tau/Exp_pt1.png)
